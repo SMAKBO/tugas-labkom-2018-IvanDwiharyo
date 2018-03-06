@@ -4,7 +4,7 @@ body, html {
 
 .parallax {
     background-image: url("https://www.hdwallpapers.in/walls/macbook_pro_color_splash-wide.jpg");
-    height: 100%; 
+    height: 50%; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
