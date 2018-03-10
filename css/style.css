@@ -4,7 +4,7 @@ body, html {
 
 .parallax {
     background-image: url("https://www.hdwallpapers.in/walls/macbook_pro_color_splash-wide.jpg");
-    height: 60%; 
+    height: 75%; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -13,7 +13,7 @@ body, html {
 
 .parallax1 {
     background-image: url("https://9to5mac.files.wordpress.com/2016/11/color-burst-2.jpg?quality=82&strip=all");
-    height: 60%; 
+    height: 75%; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
