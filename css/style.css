@@ -28,9 +28,15 @@ body, html {
   font-family: arial;
 }
 
+
+
 .title {
   color: grey;
   font-size: 18px;
+}
+
+.nav {
+position: fixed;
 }
 
 button {
