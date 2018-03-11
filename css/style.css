@@ -19,18 +19,16 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.column {
+  height: 200px;
+  margin: 10px;
+  text-align: center;
+  font-size: 2em;
+
+    }
 
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
-  margin: 20px 600px 20px 600px;
-  text-align: center;
-  font-family: arial;
-}
-
-.title {
-  color: grey;
-  font-size: 18px;
+  margin: 10px;
 }
 
 button {
@@ -54,3 +52,5 @@ a {
 
 button:hover, a:hover {
   opacity: 0.7;
+
+}
