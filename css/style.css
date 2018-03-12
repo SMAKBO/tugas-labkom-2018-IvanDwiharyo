@@ -69,4 +69,10 @@ button:hover, a:hover {
 /*style for custom background on section*/
 .custom-bg {
   background-color: #161616;
+  text-align: justify-all;
+}
+
+.custom-bg1 {
+  background-color: #161616;
+  text-align: center;
 }
