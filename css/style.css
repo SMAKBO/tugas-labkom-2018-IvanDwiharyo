@@ -2,6 +2,7 @@ body, html {
     height: 100%;
 }
 
+/*style for parallax*/
 .parallax {
     background-image: url("https://www.hdwallpapers.in/walls/macbook_pro_color_splash-wide.jpg");
     height: 75%; 
@@ -20,6 +21,7 @@ body, html {
     background-size: cover;
 }
 
+/*style for card on about us*/
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
@@ -28,6 +30,7 @@ body, html {
   font-family: arial;
 }
 
+/*style for sticky navbar*/
 .title {
   color: grey;
   font-size: 18px;
@@ -64,11 +67,7 @@ button:hover, a:hover {
   opacity: 0.7;
 }
 
-body {
-  background-color: black;
-  height: 100%;
-}
-
+/*style for custom background on section*/
 .custom-bg {
   background-color: #161616;
 }
