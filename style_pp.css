@@ -1,0 +1,17 @@
+.recommended{
+	font-family:times new roman;
+	font-size: 40px;
+	font-weight: bold;
+	font-variant: normal;
+}
+
+th {
+    background-color: #66ffff;
+    color: white;
+}
+
+td{
+	font-size: 14px;
+	font-variant: normal;
+	font-weight: bold; 
+}
